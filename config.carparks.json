@@ -1,7 +1,6 @@
 {
   "APIPORT": 6182,
-  "COLLECTION": "Bay",
-  "LCCOLLECTION": "bay",
+  "COLLECTION": "bay",
   "ITEM_NAME": "bay",
   "ITEM_LABEL": "bay_label",
   "AUXILLIARY": [

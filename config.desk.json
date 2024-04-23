@@ -1,7 +1,6 @@
 {
   "APIPORT": 6179,
-  "COLLECTION": "Desk",
-  "LCCOLLECTION": "desk",
+  "COLLECTION": "desk",
   "ITEM_NAME": "desk",
   "ITEM_LABEL": "desk",
   "BUCKET_NAME": "floor",

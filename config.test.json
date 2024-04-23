@@ -1,6 +1,5 @@
 {
-  "COLLECTION": "Test",
-  "LCCOLLECTION": "test",
+  "COLLECTION": "test",
   "APIPORT": 6177,
   "SCHEMA": {
     "food": { "type": "String" },
