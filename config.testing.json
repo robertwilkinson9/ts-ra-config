@@ -1,0 +1,40 @@
+{
+  "COLLECTION": "testing",
+  "APIPORT": 6177,
+  "ITEM_NAME": "dtesting",
+  "ITEM_LABEL": "dtesting",
+  "BUCKET_NAME": "ftesting",
+  "BUCKETS":
+  [
+    {
+      "NAME": "first",
+      "PREFIX": "f",
+      "IFIRST": 1,
+      "ILAST": 3
+    },
+    {
+      "NAME": "second",
+      "PREFIX": "s",
+      "IFIRST": 4,
+      "ILAST": 6
+    },
+    {
+      "NAME": "third",
+      "PREFIX": "t",
+      "IFIRST": 7,
+      "ILAST": 9
+    }
+  ],
+
+  "SCHEMA": {
+    "food": { "type": "String" },
+    "drink": { "type": "String" },
+    "transport": { "type": "String" }
+  },
+  "SHOW_ALL": true,
+  "EXPORTS": [
+    "food",
+    "drink",
+    "transport"
+  ]
+}
