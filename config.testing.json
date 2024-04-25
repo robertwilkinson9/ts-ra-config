@@ -1,9 +1,9 @@
 {
   "COLLECTION": "testing",
   "APIPORT": 6177,
-  "ITEM_NAME": "dtesting",
-  "ITEM_LABEL": "dtesting",
-  "BUCKET_NAME": "ftesting",
+  "ITEM_NAME": "testing_item_name",
+  "ITEM_LABEL": "testing_item_label",
+  "BUCKET_NAME": "testing_bucket",
   "BUCKETS":
   [
     {
