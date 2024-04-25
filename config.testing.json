@@ -1,5 +1,5 @@
 {
-  "COLLECTION": "testing",
+  "COLLECTION": "testing_collection",
   "APIPORT": 6177,
   "ITEM_NAME": "testing_item_name",
   "ITEM_LABEL": "testing_item_label",
@@ -25,16 +25,21 @@
       "ILAST": 9
     }
   ],
-
   "SCHEMA": {
-    "food": { "type": "String" },
-    "drink": { "type": "String" },
-    "transport": { "type": "String" }
+      "booking_start": {"type": "Date"},
+      "booking_end": {"type": "Date"},
+      "expireAt": {"type": "Date"},
+      "bucket": {"type": "Number"},
+      "testing_bucket": {"type": "String"},
+      "testing_item_name": {"type": "String"},
+      "email": {"type": "String"}
   },
   "SHOW_ALL": true,
   "EXPORTS": [
-    "food",
-    "drink",
-    "transport"
+    "booking_start",
+    "booking_end",
+    "testing_bucket",
+    "bucket",
+    "testing_item_name"
   ]
 }
