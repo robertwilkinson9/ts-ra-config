@@ -4,6 +4,10 @@
   "ITEM_NAME": "testing_item_name",
   "ITEM_LABEL": "testing_item_label",
   "BUCKET_NAME": "testing_bucket",
+  "AUXILLIARY": [
+    {"id": "1", "label": "auxilliary used in db", "dbname": "aux_used"},
+    {"id": "2", "label": "auxilliary not used in db", "dbname": "aux_unused"}
+  ],
   "BUCKETS":
   [
     {
@@ -23,6 +27,31 @@
       "PREFIX": "t",
       "IFIRST": 7,
       "ILAST": 9
+    },
+    {
+      "NAME": "Jane Austen",
+      "ITEMS": [
+        "Emma",
+        "Mansfield Park",
+        "Northanger Abbey",
+        "Persuasion",
+        "Pride and Prejudice",
+        "Sense and Sensibility"
+      ]
+    },
+    {
+      "NAME": "George Orwell",
+      "ITEMS": [
+        "A Clergyman's Daughter",
+        "Animal Farm",
+        "Burmese Days",
+        "Coming Up for Air",
+        "Down and Out in Paris and London",
+        "Homage to Catalonia",
+        "Keep the Aspidistra Flying",
+        "Nineteen Eighty-Four",
+        "The Road to Wigan Pier"
+      ]
     }
   ],
   "SCHEMA": {
@@ -32,6 +61,7 @@
       "bucket": {"type": "Number"},
       "testing_bucket": {"type": "String"},
       "testing_item_name": {"type": "String"},
+      "aux_used": {"type": "String"},
       "email": {"type": "String"}
   },
   "SHOW_ALL": true,
@@ -40,6 +70,7 @@
     "booking_end",
     "testing_bucket",
     "bucket",
-    "testing_item_name"
+    "testing_item_name",
+    "aux_used"
   ]
 }
