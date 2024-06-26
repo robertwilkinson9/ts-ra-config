@@ -1,6 +1,10 @@
 {
   "COLLECTION": "test",
   "APIPORT": 6177,
+
+  "ITEM_NAME": "test",
+  "ITEM_LABEL": "test",
+  "BUCKET_NAME": "test",
   "SCHEMA": {
     "food": { "type": "String" },
     "drink": { "type": "String" },
