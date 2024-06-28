@@ -1,5 +1,6 @@
 {
   "APIPORT": 6181,
+  "FEPORT": 5181,
   "COLLECTION": "table",
   "ITEM_NAME": "chair",
   "ITEM_LABEL": "seat",

@@ -1,6 +1,7 @@
 {
   "COLLECTION": "testing_collection",
   "APIPORT": 6177,
+  "FEPORT": 5177,
   "ITEM_NAME": "testing_item_name",
   "ITEM_LABEL": "testing_item_label",
   "BUCKET_NAME": "testing_bucket",
