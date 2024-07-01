@@ -33,6 +33,24 @@
       ]
     }
   ],
+  "FORM_DATA":
+  [
+    {
+      "label": "interesting Form ZERO",
+      "test_id": "formlabel_0",
+      "helper_text": "We'll never share your Form ZERO data."
+    },
+    {
+      "label": "interesting Form ONE",
+      "test_id": "formlabel_1",
+      "helper_text": "We'll never share your Form ONE data."
+    },
+    {
+      "label": "interesting Form TWO",
+      "test_id": "formlabel_2",
+      "helper_text": "We'll never share your Form TWO data."
+    }
+  ],
   "SCHEMA": {
       "booking_start": {"type": "Date"},
       "booking_end": {"type": "Date"},
