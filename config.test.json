@@ -8,19 +8,22 @@
   "FORM_DATA":
   [
     {
-      "label": "interesting Form ZERO",
+      "label": "interesting Test ZERO",
       "test_id": "formlabel_0",
-      "helper_text": "We'll never share your Form ZERO data."
+      "helper_text": "We'll never share your Test ZERO data.",
+      "email_helper_text": "We'll never share your Test ZERO email."
     },
     {
-      "label": "interesting Form ONE",
+      "label": "interesting Test ONE",
       "test_id": "formlabel_1",
-      "helper_text": "We'll never share your Form ONE data."
+      "helper_text": "We'll never share your Test ONE data.",
+      "email_helper_text": "We'll never share your Test ONE email."
     },
     {
-      "label": "interesting Form TWO",
+      "label": "interesting Test TWO",
       "test_id": "formlabel_2",
-      "helper_text": "We'll never share your Form TWO data."
+      "helper_text": "We'll never share your Test TWO data.",
+      "email_helper_text": "We'll never share your Test TWO email."
     }
   ],
   "SCHEMA": {

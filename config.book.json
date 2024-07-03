@@ -36,19 +36,22 @@
   "FORM_DATA":
   [
     {
-      "label": "interesting Form ZERO",
+      "label": "interesting Book ZERO",
       "test_id": "formlabel_0",
-      "helper_text": "We'll never share your Form ZERO data."
+      "helper_text": "We'll never share your Book ZERO data.",
+      "email_helper_text": "We'll never share your Book ZERO email."
     },
     {
-      "label": "interesting Form ONE",
+      "label": "interesting Book ONE",
       "test_id": "formlabel_1",
-      "helper_text": "We'll never share your Form ONE data."
+      "helper_text": "We'll never share your Book ONE data.",
+      "email_helper_text": "We'll never share your Book ONE email."
     },
     {
-      "label": "interesting Form TWO",
+      "label": "interesting Book TWO",
       "test_id": "formlabel_2",
-      "helper_text": "We'll never share your Form TWO data."
+      "helper_text": "We'll never share your Book TWO data.",
+      "email_helper_text": "We'll never share your Book TWO email."
     }
   ],
   "SCHEMA": {
