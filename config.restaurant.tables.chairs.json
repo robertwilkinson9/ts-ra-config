@@ -30,19 +30,16 @@
   [
     {
       "label": "interesting Table ZERO",
-      "test_id": "formlabel_0",
       "helper_text": "We'll never share your Table ZERO data.",
       "email_helper_text": "We'll never share your Table ZERO email."
     },
     {
       "label": "interesting Table ONE",
-      "test_id": "formlabel_1",
       "helper_text": "We'll never share your Table ONE data.",
       "email_helper_text": "We'll never share your Table ONE email."
     },
     {
       "label": "interesting Table TWO",
-      "test_id": "formlabel_2",
       "helper_text": "We'll never share your Table TWO data.",
       "email_helper_text": "We'll never share your Table TWO email."
     }

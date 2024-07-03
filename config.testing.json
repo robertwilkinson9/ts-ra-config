@@ -30,19 +30,16 @@
   [
     {
       "label": "interesting Testing Item ZERO",
-      "test_id": "formlabel_0",
       "helper_text": "We'll never share your Testing Item ZERO data.",
       "email_helper_text": "We'll never share your Testing Item ZERO email."
     },
     {
       "label": "interesting Testing Item ONE",
-      "test_id": "formlabel_1",
       "helper_text": "We'll never share your Testing Item ONE data.",
       "email_helper_text": "We'll never share your Testing Item ONE email."
     },
     {
       "label": "interesting Testing Item TWO",
-      "test_id": "formlabel_2",
       "helper_text": "We'll never share your Testing Item TWO data.",
       "email_helper_text": "We'll never share your Testing Item TWO email."
     }
