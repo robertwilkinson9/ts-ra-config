@@ -29,17 +29,20 @@
     {
       "label": "interesting Carpark ZERO",
       "helper_text": "We'll never share your Carpark ZERO data.",
-      "email_helper_text": "We'll never share your Carpark ZERO email."
+      "email_helper_text": "We'll never share your Carpark ZERO email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Carpark ONE",
       "helper_text": "We'll never share your Carpark ONE data.",
-      "email_helper_text": "We'll never share your Carpark ONE email."
+      "email_helper_text": "We'll never share your Carpark ONE email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Carpark TWO",
       "helper_text": "We'll never share your Carpark TWO data.",
-      "email_helper_text": "We'll never share your Carpark TWO email."
+      "email_helper_text": "We'll never share your Carpark TWO email.",
+      "email_placeholder": "enter Email address"
     }
   ],
   "SCHEMA": {

@@ -31,17 +31,20 @@
     {
       "label": "interesting Desk ZERO",
       "helper_text": "We'll never share your Desk ZERO data.",
-      "email_helper_text": "We'll never share your Desk ZERO email."
+      "email_helper_text": "We'll never share your Desk ZERO email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Desk ONE",
       "helper_text": "We'll never share your Desk ONE data.",
-      "email_helper_text": "We'll never share your Desk ONE email."
+      "email_helper_text": "We'll never share your Desk ONE email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Desk TWO",
       "helper_text": "We'll never share your Desk TWO data.",
-      "email_helper_text": "We'll never share your Desk TWO email."
+      "email_helper_text": "We'll never share your Desk TWO email.",
+      "email_placeholder": "enter Email address"
     }
   ],
   "SCHEMA": {

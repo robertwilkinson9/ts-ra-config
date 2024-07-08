@@ -10,17 +10,20 @@
     {
       "label": "interesting Test ZERO",
       "helper_text": "We'll never share your Test ZERO data.",
-      "email_helper_text": "We'll never share your Test ZERO email."
+      "email_helper_text": "We'll never share your Test ZERO email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Test ONE",
       "helper_text": "We'll never share your Test ONE data.",
-      "email_helper_text": "We'll never share your Test ONE email."
+      "email_helper_text": "We'll never share your Test ONE email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Test TWO",
       "helper_text": "We'll never share your Test TWO data.",
-      "email_helper_text": "We'll never share your Test TWO email."
+      "email_helper_text": "We'll never share your Test TWO email.",
+      "email_placeholder": "enter Email address"
     }
   ],
   "SCHEMA": {

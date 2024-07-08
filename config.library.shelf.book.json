@@ -33,17 +33,20 @@
     {
       "label": "interesting Book ZERO",
       "helper_text": "We'll never share your Book ZERO data.",
-      "email_helper_text": "We'll never share your Book ZERO email."
+      "email_helper_text": "We'll never share your Book ZERO email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Book ONE",
       "helper_text": "We'll never share your Book ONE data.",
-      "email_helper_text": "We'll never share your Book ONE email."
+      "email_helper_text": "We'll never share your Book ONE email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Book TWO",
       "helper_text": "We'll never share your Book TWO data.",
-      "email_helper_text": "We'll never share your Book TWO email."
+      "email_helper_text": "We'll never share your Book TWO email.",
+      "email_placeholder": "enter Email address"
     }
   ],
   "SCHEMA": {

@@ -31,17 +31,20 @@
     {
       "label": "interesting Testing Item ZERO",
       "helper_text": "We'll never share your Testing Item ZERO data.",
-      "email_helper_text": "We'll never share your Testing Item ZERO email."
+      "email_helper_text": "We'll never share your Testing Item ZERO email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Testing Item ONE",
       "helper_text": "We'll never share your Testing Item ONE data.",
-      "email_helper_text": "We'll never share your Testing Item ONE email."
+      "email_helper_text": "We'll never share your Testing Item ONE email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Testing Item TWO",
       "helper_text": "We'll never share your Testing Item TWO data.",
-      "email_helper_text": "We'll never share your Testing Item TWO email."
+      "email_helper_text": "We'll never share your Testing Item TWO email.",
+      "email_placeholder": "enter Email address"
     }
   ],
   "SCHEMA": {

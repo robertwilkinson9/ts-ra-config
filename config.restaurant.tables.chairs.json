@@ -31,17 +31,20 @@
     {
       "label": "interesting Table ZERO",
       "helper_text": "We'll never share your Table ZERO data.",
-      "email_helper_text": "We'll never share your Table ZERO email."
+      "email_helper_text": "We'll never share your Table ZERO email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Table ONE",
       "helper_text": "We'll never share your Table ONE data.",
-      "email_helper_text": "We'll never share your Table ONE email."
+      "email_helper_text": "We'll never share your Table ONE email.",
+      "email_placeholder": "enter Email address"
     },
     {
       "label": "interesting Table TWO",
       "helper_text": "We'll never share your Table TWO data.",
-      "email_helper_text": "We'll never share your Table TWO email."
+      "email_helper_text": "We'll never share your Table TWO email.",
+      "email_placeholder": "enter Email address"
     }
   ]
 }
